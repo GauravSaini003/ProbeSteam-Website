@@ -1,7 +1,7 @@
 # ProbeSteam
 
 ProbeSteam is a fully responsive website built using HTML, Tailwind CSS, and JavaScript. The project showcases modern web design techniques and provides an engaging user experience across various devices.
-website link :=> https://gauravsaini003.github.io/Javascript-project/
+website link :=> https://gauravsaini003.github.io/ProbeSteam-Website/
 ## Features
 
 - **Responsive Design:** Adapts seamlessly to different screen sizes and orientations.
